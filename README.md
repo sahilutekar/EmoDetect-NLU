@@ -1,4 +1,4 @@
-# EmoDetect
+# EmoDetect/NLU
 "EmoDetect: Automatic Emotion Recognition using Neural Networks and MFCCs"
 
 Emotion Recognition using Deep Learning
